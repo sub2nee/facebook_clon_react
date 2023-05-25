@@ -91,7 +91,9 @@ export default function FindPass() {
                                 <Button 
                                 type="reset"
                                 value="취소"
-                                variant="outlined" size="small">
+                                variant="outlined"
+                                size="small"
+                                onClick={() => window.history.back()}>
                                     취소
                                 </Button>
                             </div>
