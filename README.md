@@ -1,4 +1,4 @@
-# Spring-Shop [1조]
+# Facebook [1조]
 - 그린컴퓨터 아카데미 JAVA 풀스택 개발자 과정 이수 중 진행한 SpringBoot를 활용한 온라인 쇼핑몰 프로젝트.
 - 조원 : 
   - 최대진
