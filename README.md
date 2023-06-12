@@ -43,6 +43,7 @@
   
 - **프론트 개발 환경 및 언어**
   - `Visual Studio Code`
+  - - `React`
   
 - **데이터베이스**
   - `MariaDB`
